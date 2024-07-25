@@ -1,0 +1,36 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "rohan",
+        "username": "jklv",
+        "email": "jklv2115@hll",
+        "phone": "1-2376337833",
+        "website": "hildegard.org"
+      },
+      {
+        "id": "2",
+        "name": "kina",
+        "username": "jklv",
+        "email": "jklv2115@hl",
+        "phone": "1-2376337833",
+        "website": "hildegard.org"
+      },
+      {
+        "id": "3",
+        "name": "jeena",
+        "username": "jklv",
+        "email": "jklv2115@hl",
+        "phone": "1-2376337833",
+        "website": "hildegard.org"
+      },
+      {
+        "id": "4",
+        "name": "rahul",
+        "username": "jklv",
+        "email": "jklv2115@hl",
+        "phone": "1-2376337833",
+        "website": "hildegard.org"
+      }
+    ]
+  }
